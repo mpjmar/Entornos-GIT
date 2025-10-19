@@ -17,7 +17,8 @@
 4. **Nombre** del token: `Entornos de desarrollo`.
 5. **Caducidad**: 30 de junio de 2026
 6. Generamos y **copiamos el token** en un lugar seguro.
-
+![permisos](capturas/img-2.png)
+|[token](capturas/img-1.png)
 
 ## Parte 2 — Usar credenciales por línea de comandos en Windows (git-bash)
 
