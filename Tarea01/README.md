@@ -8,11 +8,11 @@
 1. Abrir GitHub e iniciar sesión.  
 2. Ir a **Settings → Developer settings → Personal access tokens** 
 3. Elegir **Generate new token** 
-  Podemos elegir entre:
+  Podemos seleccionar entre:
   - «classic»: acceso a todos los repos (menos seguro)
   - «fine-grained»: acceso sólo a determinados repos (más seguro)
 
-Seleccionamos <<fine-grained>> y le otorgamos los permisos:
+  Marcamos <<fine-grained>> y le otorgamos los permisos:
   - Contents: Read and write
   - Metadata: Read-only
   ![permisos](capturas/img-2.png)
