@@ -14,10 +14,10 @@
 	Seleccionamos <<fine-grained>> y le otorgamos los permisos:
 		- Contents: Read and write
 		- Metadata: Read-only
-4. **Nombre** del token: `Entornos de desarrollo`.
-5. **Caducidad**: 30 de junio de 2026
-6. Generamos y **copiamos el token** en un lugar seguro.
-![permisos](capturas/img-2.png)
+    ![permisos](capturas/img-2.png)
+5. **Nombre** del token: `Entornos de desarrollo`.
+6. **Caducidad**: 30 de junio de 2026
+7. Generamos y **copiamos el token** en un lugar seguro.
 |[token](capturas/img-1.png)
 
 ## Parte 2 — Usar credenciales por línea de comandos en Windows (git-bash)
